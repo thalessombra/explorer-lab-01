@@ -79,7 +79,7 @@ const cardNumberPattern = {
     },
     {
       mask: "0000 0000 0000 0000",
-      regex: /^1\d{0,15}/,
+      regex: /^9\d{0,15}/,
       cardtype: "rocketseat",
     },
     {
